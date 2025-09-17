@@ -39,7 +39,7 @@ console.log(student)
 // TASK 3: Functions - Create and Call Functions
 // A. Write a function called `calculateTotal` that takes two inputs: price and quantity.
 //    The function should return the total price by multiplying price by quantity.
-function calculateTotal(price, quantgity){
+function calculateTotal(price, quantity){
    return price * quantity
 }
 
